@@ -1,0 +1,19 @@
+.venv/
+output/
+
+# Python cache/build artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.pytest_cache/
+
+# OS/editor noise
+.DS_Store
+.idea/
+.vscode/
+
+# Current project only needs Python sources
+css/
+js/
